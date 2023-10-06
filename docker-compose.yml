@@ -9,6 +9,7 @@ services:
       EULA: "TRUE"
       ONLINE_MODE: "FALSE"
       ALLOW_CHEATS: "TRUE"
+      SERVER_NAME: AAAAA
     tty: true
     stdin_open: true
     restart: unless-stopped
